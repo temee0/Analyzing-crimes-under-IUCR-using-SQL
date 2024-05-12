@@ -20,7 +20,7 @@ This project serves as a dynamic platform to elevate my SQL skills, allowing me 
 ### A. General Crimes:
  **(1) The total count of cases from 2001 till present.**
  
- ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/total_count_crimes_iucr.jpg)
+ ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/total_count_crime_iucr.jpg)
 
  **(2) The total count of cases grouped by year.**  
  
