@@ -20,3 +20,28 @@ This project serves as a dynamic platform to elevate my SQL skills, allowing me 
 #### A. General Crimes:
  (1) The total count of cases from 2001 till present.
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/total_count_crimes_iucr.jpg)
+
+ (2) The total count of cases grouped by year.
+ ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/cases_by_year_1.jpg)
+ ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/cases_by%20_year_2.jpg)
+
+ (3) Number of cases by offense type.
+ ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/cases_by_offense_1.jpg)
+ ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/cases_by_offense_2.jpg)
+
+ (4) number of cases were arrest were made and not made.
+ ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/Arrest.jpg)
+
+ (5) Total counts of arrest made and the percentage of arrests by offences.
+ ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/arrest_count_1.jpg)
+ ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/arrest_count_2.jpg)
+
+ (6) Total counts of arrest that were not made and percent of arrests not made by offences.
+ ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/non_arrest_1.jpg)
+ ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/non_arrest_2.jpg)
+
+ (7) Number of cases grouped by domestic and non-domestic.
+ ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/Domestic.jpg)
+
+ (8) How often crimes happen in distinct location description (top 20)
+ ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/top20_locations.jpg)
