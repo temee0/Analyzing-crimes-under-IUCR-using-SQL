@@ -2,9 +2,10 @@
 ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/front_page.jpg)
 
 ## Introduction
-This report delves into a meticulous examination of crimes cataloged under the **Illinois Uniform Crime Reporting (IUCR)** system, spanning from 2001 to the present day. The IUCR, a standardized method for classifying criminal offenses, offers a comprehensive framework for organizing and interpreting diverse criminal activities, providing invaluable insights into the evolving nature of crime over the years. Within this report, there are subsections derived from the main data that focus on child-related crimes, sex crimes, and homicide.    
+This report is a meticulous examination of crimes cataloged under the **Illinois Uniform Crime Reporting (IUCR)** system, spanning from 2001 to the present day. The IUCR is a standardized method for classifying criminal offenses, offers a comprehensive framework for organizing and interpreting diverse criminal activities, providing invaluable insights into the evolving nature of crime over the years. Within this report, there are subsections derived from the main data that focus on child-related crimes, sex crimes, and homicides.    
 The Structured query language(SQL) was used to understand the crime dynamics, thereby facilitating informed decision-making and targeted interventions.    
-This project serves as a dynamic platform to elevate my SQL skills, allowing me to navigate the complexities of data analytics.
+This project serves as a dynamic platform to elevate my SQL skills, allowing me to navigate the complexities of data analytics.    
+**_click [here]() to view the visualization of this report using tableau_**
 
 ## Analysis Toolkits
 ### Structured Query Language (MySQL):
@@ -16,8 +17,9 @@ This project serves as a dynamic platform to elevate my SQL skills, allowing me 
 - Data analysis
 
 ## Analysis and Questions
-**_Note_** : _The SQL code for the project can be found above named **_Crimes_Analysis_** or ![here]()_   
-### A. General Crimes:
+**_Note_** : _The SQL code for the project can be found above named **_Crimes_Analysis_** or [here]()_   
+## A. General Crimes:
+
  **(1) The total count of cases from 2001 till present.**
  
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/total_count_crime_iucr.jpg)
@@ -56,7 +58,7 @@ This project serves as a dynamic platform to elevate my SQL skills, allowing me 
  
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/top20_locations.jpg)
 
- ### B. Child Related Crimes:
+ ## B. Child Related Crimes:
  **(1) Total count of child related cases.**    
  
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/count_of_child_cases%20-%20Copy.jpg)
@@ -95,7 +97,7 @@ This project serves as a dynamic platform to elevate my SQL skills, allowing me 
  
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/child_top20_locations.jpg)
 
- ### C. Sex Crimes:   
+ ## C. Sex Crimes:   
  **(1) The total count of sex crimes from 2001 till present.**    
  
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/count_of_sex_crimes%20-%20Copy.jpg)
@@ -129,10 +131,10 @@ This project serves as a dynamic platform to elevate my SQL skills, allowing me 
 
 ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/sex_top20_locations.jpg)
 
-### D. Homicides
+## D. Homicides
 **(1) The total count of Homicides from 2001 till present.**   
 
-![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/total_count_of_homicides.jpg)  
+![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/total_count_of_homicide.jpg)  
 
 **(2) The total count Homicides grouped by year.**   
 
@@ -140,7 +142,7 @@ This project serves as a dynamic platform to elevate my SQL skills, allowing me 
 ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/homicide_cases_by%20_year_2.jpg)
 
 **(3) Number of cases by offense type.**   
-![]()
+![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/homicide_cases_by_offenses.jpg)
 
 **(4) Number of Cases with and without Arrests.**   
 
