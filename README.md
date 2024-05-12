@@ -18,7 +18,7 @@ This project serves as a dynamic platform to elevate my SQL skills, allowing me 
 
 ## Analysis and Questions
 **_Note_** : _The SQL code for the project can be found above named **_Crimes_Analysis_** or [here]()_   
-## A. General Crimes:
+## A. General Crimes     
 
  **(1) The total count of cases from 2001 till present.**
  
@@ -58,7 +58,8 @@ This project serves as a dynamic platform to elevate my SQL skills, allowing me 
  
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/top20_locations.jpg)
 
- ## B. Child Related Crimes:
+ ## B. Child Related Crimes     
+ 
  **(1) Total count of child related cases.**    
  
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/count_of_child_cases%20-%20Copy.jpg)
@@ -97,7 +98,8 @@ This project serves as a dynamic platform to elevate my SQL skills, allowing me 
  
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/child_top20_locations.jpg)
 
- ## C. Sex Crimes:   
+ ## C. Sex Crimes
+ 
  **(1) The total count of sex crimes from 2001 till present.**    
  
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/count_of_sex_crimes%20-%20Copy.jpg)
@@ -132,6 +134,7 @@ This project serves as a dynamic platform to elevate my SQL skills, allowing me 
 ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/sex_top20_locations.jpg)
 
 ## D. Homicides
+
 **(1) The total count of Homicides from 2001 till present.**   
 
 ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/total_count_of_homicide.jpg)  
@@ -165,3 +168,13 @@ This project serves as a dynamic platform to elevate my SQL skills, allowing me 
 **(8) Frequency of Crimes in Top 20 Distinct Location description.**    
 
 ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/homicides_top20_locations.jpg)
+
+## Conclusion
+This report functions as a magnifying lens, offering a detailed view of the dynamics of crime within the Illinois Uniform Crime Reporting (IUCR) system. Through thorough analysis, we have gained valuable knowledge regarding crime trends over the years, the efficacy of law enforcement under the IUCR framework, and the concerning rise in crime rates in recent years. For recommendations and suggestions on potential interventions, please refer to the tableau visualization of this report available [here]().
+
+----
+
+![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/thank_you.jpg)
+#### Thank you for taking the time to read through this report.
+
+
