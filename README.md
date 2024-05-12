@@ -17,7 +17,7 @@ This project serves as a dynamic platform to elevate my SQL skills, allowing me 
 - Data analysis
 
 ## Analysis and Questions
-**_Note_** : _The SQL code for the project can be found above named **_Crimes_Analysis_** or [here]()_   
+**_Note_** : _The SQL code for the project can be found above named **_Crimes_Analysis.sql_** or [here](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/Crimes_Analysis.sql)_   
 ## A. General Crimes     
 
  **(1) The total count of cases from 2001 till present.**
