@@ -50,8 +50,8 @@ This project serves as a dynamic platform to elevate my SQL skills, allowing me 
 
  #### B. Child Related Crimes:
  (1) Total count of child related cases.     
- ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/child_domestic.jpg)     
-
+ ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/count_of_child_cases.jpg)
+ 
  (2) The total count of cases grouped by year.   
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/child_cases_by_year.jpg)     
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/child_cases_by_year_2.jpg)
