@@ -16,8 +16,8 @@ This project serves as a dynamic platform to elevate my SQL skills, allowing me 
 - Data analysis
 
 ## Analysis and Questions
-**_Note_** : The SQL code for the project can be found above named **_Crimes_Analysis_** or ![here]()
-#### A. General Crimes:
+**_Note_** : _The SQL code for the project can be found above named **_Crimes_Analysis_** or ![here]()_
+### A. General Crimes:
  (1) The total count of cases from 2001 till present.
  
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/total_count_crimes_iucr.jpg)
@@ -48,33 +48,57 @@ This project serves as a dynamic platform to elevate my SQL skills, allowing me 
  (8) How often crimes happen in distinct location description (top 20)      
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/top20_locations.jpg)
 
- #### B. Child Related Crimes:
- (1) Total count of child related cases.     
+ ### B. Child Related Crimes:
+ **(1) Total count of child related cases.**    
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/count_of_child_cases.jpg)
  
- (2) The total count of cases grouped by year.   
+ **(2) The total count of cases grouped by year.**   
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/child_cases_by_year.jpg)     
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/child_cases_by_year_2.jpg)
 
- (3) Number of cases by offense type.  
+ **(3) Number of cases by offense type.**  
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/child_cases_by_offense_1.jpg)     
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/child_cases_by_offense_2.jpg)
 
- (4) number of cases were arrest were made and not made.   
+ **(4) number of cases were arrest were made and not made.**   
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/child_arrest.jpg)
 
- (5) Total counts of arrest made and the percentage of arrests by offences.
+ **(5) Total counts of arrest made and the percentage of arrests by offences.**
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/child_Arrest_count_1.jpg)
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/child_Arrest_count_2.jpg)
 
- (6) Total counts of arrest that were not made and percent of arrests not made by offences.
+ **(6) Total counts of arrest that were not made and percent of arrests not made by offences.**
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/child_non_arrest_1.jpg)    
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/child_non_arrest_2.jpg)     
 
- (7) Number of cases grouped by domestic and non-domestic.       
+ **(7) Number of cases grouped by domestic and non-domestic.**       
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/child_domestic.jpg)    
 
  (8) how often crimes happen in distinct location description.    
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/child_top20_locations.jpg)
- 
- 
+
+ ### C. Sex Crimes:   
+ **(1) The total count of sex crimes from 2001 till present.**    
+ ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/count_of_sex_crimes.jpg)
+
+**(2) The total count sex crimes grouped by year.**     
+![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/sex_cases_by%20_year_1.jpg)     
+![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/sex_cases_by_year_2.jpg)
+
+**(3) Number of cases by offense type.**    
+![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/sex_cases_by_offense.jpg)
+
+**(4) number of cases were arrest were made and not made.**   
+![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/sex_arrest.jpg)
+
+**(5) Total counts of arrest made and the percentage of arrests by offences.**   
+![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/sex_arrest_count_1.jpg)
+
+**(6) Total counts of arrest that were not made and percent of arrests not made by offences.**    
+![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/sex_non_arrest.jpg)
+
+**(7) Number of cases grouped by domestic and non-domestic.**   
+![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/sex_domestic.jpg)
+
+**(8) how often does sex crimes happen in distinct location description.**    
+![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/sex_top20_locations.jpg)
