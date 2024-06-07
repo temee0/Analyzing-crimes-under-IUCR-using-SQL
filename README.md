@@ -5,7 +5,7 @@
 This report is a meticulous examination of crimes cataloged under the **Illinois Uniform Crime Reporting (IUCR)** system, spanning from 2001 to the present day. The IUCR is a standardized method for classifying criminal offenses, offers a comprehensive framework for organizing and interpreting diverse criminal activities, providing invaluable insights into the evolving nature of crime over the years. Within this report, there are subsections derived from the main data that focus on child-related crimes, sex crimes, and homicides.    
 The Structured query language(SQL) was used to understand the crime dynamics, thereby facilitating informed decision-making and targeted interventions.    
 This project serves as a dynamic platform to elevate my SQL skills, allowing me to navigate the complexities of data analytics.    
-**_click [here]() to view the visualization of this report using tableau_**
+**_click [here](https://github.com/temee0/Visualizing-IUCR-Crime-Data) to view the visualization of this report using PowerBI_**
 
 ## Analysis Toolkits
 ### Structured Query Language (MySQL):
@@ -58,6 +58,10 @@ This project serves as a dynamic platform to elevate my SQL skills, allowing me 
  
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/top20_locations.jpg)
 
+  **(9) Frequency of Crimes in Bottom 20 Distinct Location descrptions.**      
+ 
+ ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/bottom%2020%20locations%20.jpg)
+
  ## B. Child Related Crimes     
  
  **(1) Total count of child related cases.**    
@@ -98,6 +102,10 @@ This project serves as a dynamic platform to elevate my SQL skills, allowing me 
  
  ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/child_top20_locations.jpg)
 
+  **(9) Frequency of Crimes in Bottom 20 Distinct Location description.**    
+ 
+ ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/child%20bottom%2020%20locations.jpg)
+
  ## C. Sex Crimes
  
  **(1) The total count of sex crimes from 2001 till present.**    
@@ -132,6 +140,10 @@ This project serves as a dynamic platform to elevate my SQL skills, allowing me 
 **(8) Frequency of Crimes in Top 20 Distinct Location description.**    
 
 ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/sex_top20_locations.jpg)
+
+**(8) Frequency of Crimes in Top 20 Distinct Location description.**    
+
+![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/sex%20bottom%2020%20locations.jpg)
 
 ## D. Homicides
 
@@ -169,8 +181,12 @@ This project serves as a dynamic platform to elevate my SQL skills, allowing me 
 
 ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/homicides_top20_locations.jpg)
 
+**(9) Frequency of Crimes in Bottom 20 Distinct Location description.**    
+
+![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/homicides%20bottom%2020%20locations.jpg)
+
 ## Conclusion
-This report functions as a magnifying lens, offering a detailed view of the dynamics of crime within the Illinois Uniform Crime Reporting (IUCR) system. Through thorough analysis, we have gained valuable knowledge regarding crime trends over the years, the efficacy of law enforcement under the IUCR framework, and the concerning rise in crime rates in recent years. For recommendations and suggestions on potential interventions, please refer to the tableau visualization of this report available [here]().
+This report functions as a magnifying lens, offering a detailed view of the dynamics of crime within the Illinois Uniform Crime Reporting (IUCR) system. Through thorough analysis, we have gained valuable knowledge regarding crime trends over the years, the efficacy of law enforcement under the IUCR framework, and the concerning rise in crime rates in recent years. For recommendations and suggestions on potential interventions, please refer to the PowerBI visualization of this report available [here](https://github.com/temee0/Visualizing-IUCR-Crime-Data).
 
 ----
 
