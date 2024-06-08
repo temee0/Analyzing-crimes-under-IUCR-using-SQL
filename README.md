@@ -141,7 +141,7 @@ This project serves as a dynamic platform to elevate my SQL skills, allowing me 
 
 ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/sex_top20_locations.jpg)
 
-**(8) Frequency of Crimes in Top 20 Distinct Location description.**    
+**(9) Frequency of Crimes in Bottom 20 Distinct Location description.**    
 
 ![](https://github.com/temee0/Analyzing-crimes-under-IUCR-using-SQL/blob/main/sex%20bottom%2020%20locations.jpg)
 
